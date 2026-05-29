@@ -1,0 +1,23 @@
+{
+  "name": "github-demo",
+  "version": "1.0.0",
+  "description": "GitHub traning repo",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shanmugaraj-Maniyarasan/GitHub-Demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Shanmugaraj-Maniyarasan/GitHub-Demo/issues"
+  },
+  "homepage": "https://github.com/Shanmugaraj-Maniyarasan/GitHub-Demo#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.60.0",
+    "@types/node": "^25.9.1"
+  }
+}
